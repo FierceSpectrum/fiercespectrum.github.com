@@ -1,26 +1,47 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Piña</title>
     <link rel="stylesheet" href="../CSS/Main.css" />
+    <title>Piña</title>
 </head>
 <body>
     <header>
         <div class="Borde"></div>
-        <div class="navegation">
-            <ul>
-                <li><a href="./Comunidad.html">Inicio</a></li>
-                <li><a href="./Ozono.html">Ozono</a></li>
-                <li><a href="./Impresion3D.html">Impresión 3D</a></li>
-                <li><a href="./Piña.html">Piña</a></li>
-            </ul>
+        <div class="Desktop">
+            <nav>
+                <ul class = "navegation">
+                    <li><a href="./Reactjs.html">Inicio</a></li>
+                    <li><a href="./Ozono.html">Ozono</a></li>
+                    <li><a href="./Formulario.html">Formulario</a></li>
+                    <li><a class = active href="./Piña.html">Piña</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="Navmenu">
+            <div class="navHB">
+                <input class="checkbox" type="checkbox"/>
+                <div class="hamburger-lines">
+                    <span class="line line1"></span>
+                    <span class="line line2"></span>
+                    <span class="line line3"></span>
+                  </div> 
+                <nav class="NavItems">
+                    <div>
+                        <ul class = "navegation">
+                            <li><a href="./Reactjs.html">Inicio</a></li>
+                            <li><a href="./Ozono.html">Ozono</a></li>
+                            <li><a href="./Formulario.html">Formulario</a></li>
+                            <li><a class = active href="./Piña.html">Piña</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
         </div>
     </header>
-    <section>
+    <section class = cuerpo>
         <h1>Piña</h1>
         <h2>¿Qué es?</h2>
         <div class="pegado">
@@ -30,8 +51,7 @@
             </p>
         </div>
         <div class="imagen">
-            <img src="../imagenes/piña.jpg">
-        </div>
+            <iframe width="360" height="215" src="https://www.youtube.com/embed/M5e_aFfC45g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
         <h3 class="h3">Tipos de piña</h3>
         <div class="pegado2-01 mas">
             <p>
@@ -54,18 +74,14 @@
         </div>
     </section>
     <footer>
-        <div id="BC">
-            <div class="bloque">
-                <p>Desarrolladores:</p>
-                <p>Benjamín Sandí</p>
-                <p>Daniela Escoto</p>
-                <p>Diego Solano</p>
-                <p>Josafath Ramirez</p>
-                <p>Walter Jesús</p>
-                <p>Yohany Ramírez</p>
-            </div>
-            <div class="utn"><a target="_blank" href="https://www.utn.ac.cr/"><img id="Derecha" src="../imagenes/utn.jpeg"></a></div>
-        </div>
+        <ul class = "Developers">
+            <li><p>Desarrolladores:</p></li>
+            <li><p>Benjamín Sandí</p></li>
+            <li><p>Josafath Ramirez</p></li>
+            <li>
+                <a class="utn" target="_blank" href="https://www.utn.ac.cr/"><img id="Derecha" src="../imagenes/utn.jpeg"></a>
+            </li>
+        </ul>
     </footer>
 </body>
 </html>
