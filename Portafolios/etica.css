@@ -48,7 +48,9 @@ section {
 .bloque .img img {
     width: 100%;
     border-radius: 5%;
+    max-height: 400px;
 }
+
 
 
 
@@ -116,5 +118,6 @@ section {
 
     .bloque .img {
         width: 50%;
+        max-height: 400px;
     }
 }
