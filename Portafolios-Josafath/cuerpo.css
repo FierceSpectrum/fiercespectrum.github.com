@@ -70,6 +70,9 @@ section {
         padding-right: 20px;
         padding-bottom: 10px;
     }
+     .bloque .text p{
+        padding-left: 10px;
+    }
 }
 
 @media screen and (min-width: 550px) {
@@ -95,6 +98,7 @@ section {
 
     .bloque .text .title {
         text-align: center;
+        padding-top: 10px;
         margin-top : -40px;
         margin-bottom: -30px;
         font-size: 40px;
@@ -103,12 +107,14 @@ section {
     .bloque .text h4 {
         margin-top : -0px;
         margin-bottom: -0px;
-        font-size: 25px;
+        padding: 10px 0px 10px 0px;
+        font-size: 30px;
     }
 
     .bloque .text p {
         margin-top : -0px;
         margin-bottom: -0px;
+        padding-left: 30px;
         font-size: 25px;
     }
 }
