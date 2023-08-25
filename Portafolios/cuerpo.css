@@ -162,7 +162,7 @@ section {
     .rotate .img,
     .rotate .text {
         width: 100%;
-        height: 100%;
+        height: auto;
         background-color: #033315;
         transform: translate3d(0, 0, 1px);
         position: absolute;
@@ -170,6 +170,7 @@ section {
     }
 
     .rotate .img {
+        height: 100%;
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -177,9 +178,10 @@ section {
 
     .rotate .text {
         transform: rotateY(180deg);
+        min-height: 100%;
     }
 
-    .rotate:hover>.cart .cart2 {
+    .rotate:hover >.cart .cart2 {
         transform: rotateY(180deg);
     }
 
