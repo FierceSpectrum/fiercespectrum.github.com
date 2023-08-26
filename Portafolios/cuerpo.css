@@ -209,58 +209,114 @@ section {
 
 }
 
-.clase1 .img {
+.clase1 .img.e {
     background-image: url('./imgs/etica/c1e.jpg');
 }
 
-.clase2 .img {
+.clase2 .img.e {
     background-image: url('./imgs/etica/c2e.jpg');
 }
 
-.clase3 .img {
+.clase3 .img.e {
     background-image: url('./imgs/etica/c3e.jpg');
 }
 
-.clase4 .img {
+.clase4 .img.e {
     background-image: url('./imgs/etica/c4e.jpg');
 }
 
-.clase5 .img {
+.clase5 .img.e {
     background-image: url('./imgs/etica/c5e.jpeg');
 }
 
-.clase6 .img {
+.clase6 .img.e {
     background-image: url('./imgs/etica/c6e.png');
 }
 
-.clase7 .img {
+.clase7 .img.e {
     background-image: url('./imgs/etica/c7e.webp');
 }
 
-.clase8 .img {
+.clase8 .img.e {
     background-image: url('./imgs/etica/c8e.jpg');
 }
 
-.clase9 .img {
+.clase9 .img.e {
     background-image: url('./imgs/etica/c9e.jpg');
 }
 
-.clase10 .img {
+.clase10 .img.e {
     background-image: url('./imgs/etica/c10e.jpg');
 }
 
-.clase11 .img {
+.clase11 .img.e {
     background-image: url('./imgs/etica/c11e.jpg');
 }
 
-.clase12 .img {
+.clase12 .img.e {
     background-image: url('./imgs/etica/c12e.jpg');
 }
 
-.clase13 .img {
+.clase13 .img.e {
     background-image: url('./imgs/etica/c13e.jpg');
 }
 
-.clase14 .img {
+.clase14 .img.e {
     background-image: url('./imgs/etica/c14e.avif');
+}
+
+.clase1 .img.l {
+    background-image: url('./imgs/literatura/c1l.jpg');
+}
+
+.clase2 .img.l {
+    background-image: url('./imgs/literatura/c2l.jpeg');
+}
+
+.clase3 .img.l {
+    background-image: url('./imgs/literatura/c3l.png');
+}
+
+.clase4 .img.l {
+    background-image: url('./imgs/literatura/c4l.jpg');
+}
+
+.clase5 .img.l {
+    background-image: url('./imgs/literatura/c5l.jpg');
+}
+
+.clase6 .img.l {
+    background-image: url('./imgs/literatura/c6l.jpg');
+}
+
+.clase7 .img.l {
+    background-image: url('./imgs/literatura/c7l.jpg');
+}
+
+.clase8 .img.l {
+    background-image: url('./imgs/literatura/c8l.jpeg');
+}
+
+.clase9 .img.l {
+    background-image: url('./imgs/literatura/c9l.jpg');
+}
+
+.clase10 .img.l {
+    background-image: url('./imgs/literatura/c10l.jpg');
+}
+
+.clase11 .img.l {
+    background-image: url('./imgs/literatura/c11l.jpg');
+}
+
+.clase12 .img.l {
+    background-image: url('./imgs/literatura/c12l.jpeg');
+}
+
+.clase13 .img.l {
+    background-image: url('./imgs/literatura/c13l.jpg');
+}
+
+.clase14 .img.l {
+    background-image: url('./imgs/literatura/c14l.jpg');
 }
