@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fiercespectrum.github.com/workshop4/build/static/css/main.f855e6bc.css",
-    "main.js": "/fiercespectrum.github.com/workshop4/build/static/js/main.160b7ff6.js",
-    "static/js/453.9367843e.chunk.js": "/fiercespectrum.github.com/workshop4/build/static/js/453.9367843e.chunk.js",
-    "index.html": "/fiercespectrum.github.com/workshop4/build/index.html",
-    "main.f855e6bc.css.map": "/fiercespectrum.github.com/workshop4/build/static/css/main.f855e6bc.css.map",
-    "main.160b7ff6.js.map": "/fiercespectrum.github.com/workshop4/build/static/js/main.160b7ff6.js.map",
-    "453.9367843e.chunk.js.map": "/fiercespectrum.github.com/workshop4/build/static/js/453.9367843e.chunk.js.map"
+    "main.css": "/workshop4/build/static/css/main.f855e6bc.css",
+    "main.js": "/workshop4/build/static/js/main.776bd205.js",
+    "static/js/453.9367843e.chunk.js": "/workshop4/build/static/js/453.9367843e.chunk.js",
+    "index.html": "/workshop4/build/index.html",
+    "main.f855e6bc.css.map": "/workshop4/build/static/css/main.f855e6bc.css.map",
+    "main.776bd205.js.map": "/workshop4/build/static/js/main.776bd205.js.map",
+    "453.9367843e.chunk.js.map": "/workshop4/build/static/js/453.9367843e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.160b7ff6.js"
+    "static/js/main.776bd205.js"
   ]
 }
