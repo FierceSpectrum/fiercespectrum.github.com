@@ -14,6 +14,7 @@ function App() {
           <Routes>
             <Route path="/" element={
               <>
+                <div>{'hola listo?'}</div>
               </>
             } />
             <Route path="/Singleton" element={
